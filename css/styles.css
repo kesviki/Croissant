@@ -1,3 +1,6 @@
+body {
+    background-color: rgb(255, 242, 227);
+}
 h1 {
     text-align: center;
 }
@@ -12,4 +15,21 @@ footer {
 
 div {
     text-align: center;
+}
+
+img {
+    border-radius: 20px;
+}
+
+a {
+    color: rgb(158, 90, 0);
+    padding: 20px;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+.contact-link {
+    padding: 0px;
 }
